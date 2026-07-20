@@ -122,7 +122,7 @@ DATABASES= {
         'NAME': 'alchemy_maziwa',
         'HOST': 'mysql-alchemy.alwaysdata.net',
         'USER': 'alchemy',
-        'PASSWORD': 'kirkleader@2005%',
+        'PASSWORD': 'kirkleade@2026',
         
     
     }
