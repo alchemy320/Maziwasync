@@ -119,7 +119,7 @@ WSGI_APPLICATION = 'maziwasyncbck.wsgi.application'
 DATABASES= {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'alchemy_maziwa',
+        'NAME': 'alchemy_maziwasync',
         'HOST': 'mysql-alchemy.alwaysdata.net',
         'USER': 'alchemy',
         'PASSWORD': 'kirkleader@2026',
