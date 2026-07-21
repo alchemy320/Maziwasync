@@ -11,7 +11,7 @@ import os
 import sys
 from django.core.wsgi import get_wsgi_application
 
-sys.path.append('/home/alchemy/www/Maziwasync/maziwasyncbck')
+sys.path.append('/home/kirkmaziwa/www/Maziwasync/maziwasyncbck')
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'maziwasyncbck.settings')
 
 application = get_wsgi_application()
